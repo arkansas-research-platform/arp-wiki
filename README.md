@@ -1,2 +1,4 @@
 # arp-wiki
-A harmonized guide to the ARP.
+A harmonized wiki for the Arkansas Research Platform (ARP).
+
+-- In Development --
